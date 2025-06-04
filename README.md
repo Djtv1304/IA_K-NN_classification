@@ -130,6 +130,8 @@ $$
 
 ### 6.1 Conjunto de Entrenamiento
 
+![image](https://github.com/user-attachments/assets/161bbb35-b21a-45cd-b64b-83abfcadf62e)
+
 **Descripción**:
 * El plano se graficó usando las características originales (`Edad` ↔ `Age`, `Ingreso Mensual` ↔ `MonthlyIncome`).
 * La región en **verde** corresponde a la clase `1` (rotación), y la región en **rojo** a la clase `0` (permanencia).
@@ -142,6 +144,8 @@ $$
 * La **frontera de decisión** es suave y coherente, sin fragmentaciones excesivas gracias al valor K=9.
 
 ### 6.2 Conjunto de Prueba
+
+![image](https://github.com/user-attachments/assets/ef077839-a8be-4e85-9acc-67925361f615)
 
 **Descripción**:
 * Misma lógica gráfica que en el conjunto de entrenamiento.
